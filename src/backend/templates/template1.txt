@@ -1,0 +1,7 @@
+hi!
+
+your name is: {name}
+
+your email is: {email}
+
+thank you!!
